@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NataliiaVoloshyna
-- 👀 I’m interested in ... testing seelingalpha project
-- 🌱 I’m currently learning ...testing seelingalpha project
-- 💞️ I’m looking to collaborate on ...testing seelingalpha project
+- 👀 I’m interested in ... testing seekingalpha project
+- 🌱 I’m currently learning ...testing seekingalpha project
+- 💞️ I’m looking to collaborate on ...testing seekingalpha project
 - 📫 How to reach me ... nataliiav@seekingalpha.com
 
 <!---
